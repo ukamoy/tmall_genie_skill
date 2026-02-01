@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Auth files (DO NOT COMMIT)
+authfile/*.txt
+!authfile/.gitkeep
